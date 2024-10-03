@@ -1,0 +1,3 @@
+Read the blog: https://surayaahlam.hashnode.dev/dhaka-stock-market-data-analysis-with-python
+
+This blog provides a comprehensive analysis of the Dhaka stock market of 2022, focusing on its dynamics and trends. The blog explores market trends, data patterns, and insights tailored to the Dhaka market landscape. The blog serves as an essential guide for traders, investors, and enthusiasts seeking a deeper understanding of Bangladesh's financial landscape. Through Python-powered analysis and visualizations, the blog uncovers compelling narratives driving stock movements in Dhaka, offering valuable insights for traders, investors, and enthusiasts.
